@@ -1,4 +1,4 @@
-<h1 align="center">Awesome-Personalization-Papers</h1><h1 align="center">Awesome-Personalization-Papers</h1>
+<h1 align="center">Awesome-Personalization-Papers</h1>
 
 <p align="center">
     <img src="https://awesome.re/badge.svg" href="https://github.com/atfortes/Awesome-Multimodal-Reasoning"/>
